@@ -1,0 +1,30 @@
+nav img{
+    height: 40px;
+}
+.avatar{
+    width: 20px;
+    height: 30px;
+}
+nav svg{
+    margin: 8px;
+    color: white;
+}
+.nav-item1{
+margin-left:auto !important;
+}
+ nav,body{
+ background-color: rgb(20, 20, 20);
+ color: white;
+}
+.hidden{
+    opacity: 0;
+    transition: 0.5s;
+}
+.body{
+    background-color: rgb(20, 20, 20);
+    color: grey;
+}
+
+img{
+    height: 20px;
+}
